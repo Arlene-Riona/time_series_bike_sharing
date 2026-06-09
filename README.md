@@ -5,7 +5,6 @@ This project was developed as a comprehensive data analysis and forecasting solu
 1. **Operational Fleet Optimization:** Forecasting hourly rental demand to proactively rebalance the bike fleet across docking stations.
 2. **Strategic Infrastructure Planning:** Identifying citizen usage patterns (commute vs. leisure, weather resilience) to justify future budget allocations for new bike lanes and stations.
 
-*Note: This project was completed as part of the DSAI3301 Data Analysis & Visualisation coursework (Spring 2026).*
 
 ## Objectives
 * **Exploratory Data Analysis (EDA):** Uncover behavioral patterns in ridership using Python (`matplotlib`, `seaborn`) to map out how weather, holidays, and time of day impact bike usage.
@@ -24,6 +23,7 @@ bike_sharing_project/
 ├── assets/                # Presentation slides and visual assets
 ├── requirements.txt       # Python environment dependencies
 └── README.md              # Project documentation
+```text
 
 ## Tech Stack & Tools
 * Programming & Analysis: Python (Jupyter Notebooks in VS Code)
