@@ -1,6 +1,6 @@
 # Smart Mobility Taskforce: Predictive Demand & Fleet Logistics
 
-[Power BI Dashboard Link]([https://app.powerbi.com/links/fVrIc8tQJY?ctid=b30f4b44-46c6-4070-9997-f87b38d4771c&pbi_source=linkShare&bookmarkGuid=940bb9bd-7e15-4c58-8679-545cb3a21879])
+[Power BI Dashboard Link]  - https://app.powerbi.com/links/fVrIc8tQJY?ctid=b30f4b44-46c6-4070-9997-f87b38d4771c&pbi_source=linkShare&bookmarkGuid=940bb9bd-7e15-4c58-8679-545cb3a21879
 
 ## Executive Summary
 
